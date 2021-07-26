@@ -1,0 +1,30 @@
+.panda-navbar {
+    /* margin-bottom: 100px; */
+}
+.panda-container {
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+.carousel-btn {
+    background-image: linear-gradient(to bottom, #FF5499, #FF1D75);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-size: 24px;
+}
+.carousel-btn span {
+    margin-right: 5px;
+}
+.panda-padding-category {
+    padding: 10px 40px;
+}
+.panda-btn-warning  {
+    background-image: linear-gradient(#FFA530, #FFC61E);
+}
+.panda-btn-info {
+    background-image: linear-gradient(#FF569A, #FF1872);
+}
+.panda-btn-primary {
+    background-image: linear-gradient(#4172FE, #3F12F9);
+}
